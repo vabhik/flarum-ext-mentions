@@ -1,5 +1,5 @@
 {
-    "name": "vabhik/flarum-ext-mentions",
+    "name": "flarum/flarum-ext-mentions",
     "description": "Mention and reply to specific posts and users.",
     "type": "flarum-extension",
     "keywords": ["discussion"],
